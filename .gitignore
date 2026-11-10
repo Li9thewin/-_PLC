@@ -1,0 +1,20 @@
+# AutoShop local credentials, runtime state, and generated output
+**/LoginPassowrd.dat
+**/EthPLCList.ini
+**/SFTPServer.dat*
+**/OpcUAServer.dat*
+**/webserver.dat
+**/webserver.bin
+**/*.mon
+**/*.log
+**/*.datBAK
+**/*.tmp
+**/*.libtemp
+**/Output.prg
+**/userprog.prg
+**/Compile/
+**/OnlineVersion/
+**/Simulator/
+**/STSimTemp/
+**/STTemp/
+**/Temp/

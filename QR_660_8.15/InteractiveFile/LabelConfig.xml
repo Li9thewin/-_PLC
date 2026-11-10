@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Symbolconfiguration>
+	<TypeList>
+		<TypeSimple name="T_INT" size="2" bitsize="16" iecname="INT"/>
+		<TypeArray name="T_ARRAY__0__49__OF_INT" size="100" bitsize="800" iecname="ARRAY [0..49] OF INT" basetype="T_INT">
+			<ArrayDim minrange="0" maxrange="49"/>
+		</TypeArray>
+	</TypeList>
+	<NodeList>
+		<Node name="num" type="INT">
+			<Comment></Comment></Node>
+		<Node name="num2" type="INT">
+			<Comment></Comment></Node>
+		<Node name="mods" type="INT">
+			<Comment></Comment></Node>
+		<Node name="m" type="INT[50]">
+			<Comment></Comment>
+			<ElemComment></ElemComment></Node>
+		<Node name="z" type="INT">
+			<Comment></Comment></Node>
+	</NodeList>
+</Symbolconfiguration>
